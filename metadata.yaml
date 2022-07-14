@@ -1,0 +1,36 @@
+_repo: The-Devil-s-picture-books_68367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Rensselaer, John King, Mrs.
+    aliases:
+    - Rensselaer, John King van, Mrs.
+    - Rensselaer, Mrs. John King van
+    - Van Rensselaer, May King
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '41944'
+    url: http://www.gutenberg.org/2009/agents/41944
+description: ''
+gutenberg_issued: '2022-06-21'
+identifiers:
+  gutenberg: '68367'
+  lccn: '05025424'
+language: en
+pgterms:marc904: https://archive.org/details/TheDevilsPictureBooks
+pgterms:marc905: 20200626092136vanrenssel
+pgterms:marc906: '1890'
+pgterms:marc907: US
+production_note: deaurider, Les Galloway and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Dodd Mead and Co,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Playing cards -- History'
+- !lcc 'GV'
+- GITenberg
+title: The Devil's picture-books
+url: http://www.gutenberg.org/ebooks/68367
